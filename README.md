@@ -1,6 +1,7 @@
 # Challenge 3 ( Password generator )
 
 ## Description
+ * In this challenge we were given code to build a password generator. In this challenge you will find that you can click on the button on the website and generate a password.
 
 ## Aceptance Criteria
 * The button generates a password
